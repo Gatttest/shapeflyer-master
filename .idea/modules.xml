@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shapeflyer/shapeflyer.iml" filepath="$PROJECT_DIR$/shapeflyer/shapeflyer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shapeflyer-master.iml" filepath="$PROJECT_DIR$/shapeflyer-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shapeflyer-sample/shapeflyer-sample.iml" filepath="$PROJECT_DIR$/shapeflyer-sample/shapeflyer-sample.iml" />
+    </modules>
+  </component>
+</project>
